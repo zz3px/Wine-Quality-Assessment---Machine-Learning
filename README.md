@@ -6,3 +6,6 @@ properties of wines are continuous variables. Quality is an ordinal variable wit
 to 10 (best). Each variety of wine is tasted by three tasters and the final rank assigned is the median rank given 
 by the tasters.
 
+
+# Summary of Data
+<img width="528" alt="screen shot 2017-10-09 at 11 07 29 pm" src="https://user-images.githubusercontent.com/32658482/31367650-b87007a2-ad46-11e7-8893-1ac2e72108b1.png">
